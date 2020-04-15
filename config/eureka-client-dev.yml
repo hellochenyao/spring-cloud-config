@@ -15,5 +15,5 @@ spring:
   profiles: dev
 data:
   env:
-    user: aaaaaa
-    password: aaaaaa
+    user: aaaaaaaaa
+    password: aaaaaaaaa
