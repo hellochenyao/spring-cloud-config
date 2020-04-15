@@ -1,5 +1,15 @@
 server:
   port: 10003
+---
+spring:
+  profiles: prod
+data:
+  env:
+    user: aaa
+    password: aaa
+---
+spring:
+  profiles: dev
 data:
   env:
     user: aaaaaa
